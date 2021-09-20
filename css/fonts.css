@@ -1,0 +1,13 @@
+@font-face {
+  font-family: fontick; /* Имя шрифта */
+  src: url(../fonts/fontick.otf); /* Путь к файлу со шрифтом */
+  font-weight: 100;
+  font-style: normal;
+ }
+
+ @font-face {
+  font-family: urb-black; /* Имя шрифта */
+  src: url(../fonts/Urbanist-Bold.ttf); /* Путь к файлу со шрифтом */
+  font-weight: 100;
+  font-style: normal;
+ }
