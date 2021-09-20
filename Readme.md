@@ -1,1 +1,1 @@
-https://github.com/DarkRide88/rsschool-cv
+https://darkride88.github.io/rsschool-cv/
